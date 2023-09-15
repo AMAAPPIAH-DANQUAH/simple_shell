@@ -28,7 +28,7 @@ Your shell should work like this in interactive mode:
 
 SOME TASKS UNDERTAKEN FOR THE SIMPLE SHELL 
 
-The Simple shell created isable to:
+The Simple shell created is able to:
 
 - Display a prompt and wait for the user to type a command. A command line always ends with a new line.
 - The prompt is displayed again each time a command has been executed.
